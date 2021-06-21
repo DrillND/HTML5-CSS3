@@ -1,0 +1,9 @@
+HTML 바로 인터넷으로 열기 ALT+B
+CTRL + / 주석 넣다 빼기
+
+비쥬얼 스튜디오 코드
+확장어플리케이션
+
+Baeutify
+HTML Preview
+open in browser
